@@ -42,7 +42,6 @@
     ]
   },
   "_id": "waterline-elasticsearch@0.1.3",
-  "_from": "sails-elasticsearch@*",
   "_npmVersion": "1.4.9",
   "maintainers": [
     {
